@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="FootieData.Vsix.ToolWindow1Control"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vsshell="clr-namespace:Microsoft.VisualStudio.Shell;assembly=Microsoft.VisualStudio.Shell.15.0"
+             xmlns:vsix="clr-namespace:FootieData.Vsix"
+             mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="assets/PlusMinusExpanderStyles.xaml" />
+    </UserControl.Resources>
+
+    <ScrollViewer >
+        <StackPanel>
+
+            <!--<TextBlock Text="{Binding Data}" />-->
+
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Refresh" Click="Click_HandlerRefresh"  HorizontalAlignment="Left" Margin="0 0 10 0" Name="BtnRefresh"/>
+                <Button Content="The boss is coming" Click="Click_HandlerBossComing" HorizontalAlignment="Right" Name="BtnLeagueMode"/>
+                <Button Content="Return" Click="Click_HandlerReturn" HorizontalAlignment="Right" Name="BtnBossMode" Visibility="Collapsed" />
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Name="TextBlockRefreshPostponed" Visibility="Collapsed" Foreground="Red"/>
+            </StackPanel>
+
+            <StackPanel Name="StackPanelBossMode">
+                <TextBlock Name="TextBlockBossMode" />
+            </StackPanel>
+
+            <StackPanel Name="StackPanelLeagueMode" />
+
+            <TextBlock Name="TextBlockUnexpectedErrorOccuredActivityLogin" Visibility="Collapsed" />
+
+        </StackPanel>
+    </ScrollViewer >
+
+</UserControl>
