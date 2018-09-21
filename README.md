@@ -2,13 +2,13 @@
 [AppVeyorProjectBuildStatusBadgeSvg]: https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true
 [VersionNumberBadgeURL]: https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixFootball.svg
 
-# Visual Studio Sports Desk
+# Visual Studio Football
 
 <!--BadgesSTART-->
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 
 
 <!--BadgesEND-->
@@ -46,7 +46,7 @@ You need nothing else from your IDE.
    
 ![](https://github.com/GregTrevellick/VsixFootball/blob/master/Src/FootieData.Vsix/VsmmAssetts/MenuViewOtherWindows.png?raw=true)
 
-![](https://github.com/GregTrevellick/VsixFootball/blob/master/Src/FootieData.Vsix/VsmmAssetts/VSSportsDeskRhs.png?raw=true)
+![](https://github.com/GregTrevellick/VsixFootball/blob/master/Src/FootieData.Vsix/VsmmAssetts/FootballRhs.png?raw=true)
 
 <!--
 

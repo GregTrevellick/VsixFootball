@@ -34,7 +34,7 @@ namespace FootieData.Vsix
         }
 
         /// <summary>
-        /// Is hit when user selects Tools > Windows > VS Sports Desk
+        /// Is hit when user selects Tools > Windows > Football
         /// </summary>
         private async void CommandEventHandler(object sender, EventArgs e)
         {
