@@ -7,12 +7,12 @@ namespace FootieData.Vsix
 {
     static class Vsix
     {
-        public const string Id = "28693b18-0c2c-4e86-adf2-adce836b749e";
+        public const string Id = "2BD1BC10-85EB-4454-96DF-55CE40A95E93";
         public const string Name = "Football";
-        public const string Description = @"League tables. Results. Fixtures.";
+        public const string Description = @"Tables. Results. Fixtures. In the IDE.";
         public const string Language = "en-US";
-        public const string Version = "1.1";
+        public const string Version = "2.0.2";
         public const string Author = "Greg Trevellick";
-        public const string Tags = "Bundesliga, Championship, English, Football, Footie, Footy, League, Liga, Premier, Soccer, Sport, United, Liga";
+        public const string Tags = "Bundesliga, Championship, English, Football, Footie, Footy, League, Liga, Premier, Soccer, Sport, United, Liga, Ligue, Roma, Milan, Madrid";
     }
 }

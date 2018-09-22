@@ -70,7 +70,7 @@
 
 Bringing the latest soccer league tables and scores to Visual Studio, leveraging the awesome labour of love that is [footballdata.org](https://www.football-data.org).
 
-You need nothing else from your IDE.
+You need nothing else from your IDE (except perhaps a more imaginitive name).
    
 ![](https://github.com/GregTrevellick/VsixFootball/blob/master/Src/FootieData.Vsix/VsmmAssetts/MenuViewOtherWindows.png?raw=true)
 
@@ -138,6 +138,10 @@ Any bugs (as if!) can be logged [here][GitHubRepoIssuesURL].
 
 - Stealth mode (hides league tables when your boss is hovering)
 
+### Note for VS Sports Desk Users
+
+Following Daniel's commercialization of [FootballData.org](https://www.football-data.org) (and who can blame him?) only the top league in each country is now free (except the English Championship) so [VS Sports Desk](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk) is now retired and only shows the data from 2017/18 season. 
+
 <!--VSMM readme end-->
 
 See the [change log](CHANGELOG.md) for release history.
@@ -157,6 +161,8 @@ See the [change log](CHANGELOG.md) for release history.
 [Marco Lachmann-Anke 3dman_eu](https://pixabay.com/en/males-3d-model-isolated-3d-model-2358253/)
 
 [Thomas Levesque](http://www.thomaslevesque.com/2009/04/17/wpf-binding-to-an-asynchronous-collection/)
+
+[VS Sports Desk](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 
 [VS SDK Analyzers](https://github.com/Microsoft/VSSDK-Analyzers/blob/master/doc/VSSDK003.md)
 
