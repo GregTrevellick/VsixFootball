@@ -1,4 +1,5 @@
 ﻿using FootballDataOrg.ResponseEntities;
+using FootieData.Common;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -130,12 +131,12 @@ namespace FootballDataOrg
             switch (timeFrame)
             {
                 case "p7":
-                    dateFrom = now.AddDays(-7).ToString(dateFormat);
+                    dateFrom = now.AddDays(-CommonConstants.DaysCount).ToString(dateFormat);
                     dateTo = formattedNow;
                     break;
                 case "n7":
                     dateFrom = formattedNow;
-                    dateTo = now.AddDays(7).ToString(dateFormat);
+                    dateTo = now.AddDays(CommonConstants.DaysCount).ToString(dateFormat);
                     break;
             }
         }
