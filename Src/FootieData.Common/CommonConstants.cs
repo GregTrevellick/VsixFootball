@@ -11,19 +11,19 @@ namespace FootieData.Common
 
         public const string InternalLeagueCodeDescriptionBr1 = "Campeonato Brasileiro Série A";
         public const string InternalLeagueCodeDescriptionDe1 = "1. Bundesliga";
-        public const string InternalLeagueCodeDescriptionDe2 = "2. Bundesliga";
+        //public const string InternalLeagueCodeDescriptionDe2 = "2. Bundesliga";
         public const string InternalLeagueCodeDescriptionEs1 = "La Liga Primera Division";
         public const string InternalLeagueCodeDescriptionFr1 = "Ligue 1";
-        public const string InternalLeagueCodeDescriptionFr2 = "Ligue 2";
+        //public const string InternalLeagueCodeDescriptionFr2 = "Ligue 2";
         public const string InternalLeagueCodeDescriptionIt1 = "Serie A";
-        public const string InternalLeagueCodeDescriptionIt2 = "Serie B";
+        //public const string InternalLeagueCodeDescriptionIt2 = "Serie B";
         public const string InternalLeagueCodeDescriptionNl1 = "Eredivisie";
         public const string InternalLeagueCodeDescriptionPt1 = "Primeira Liga";
         public const string InternalLeagueCodeDescriptionUefa1 = "UEFA Champions League";
         public const string InternalLeagueCodeDescriptionUk1 = "English Premier League";
         public const string InternalLeagueCodeDescriptionUk2 = "English Football League Championship";
-        public const string InternalLeagueCodeDescriptionUk3 = "English Football League One";
-        public const string InternalLeagueCodeDescriptionUk4 = "English Football League Two";
+        //public const string InternalLeagueCodeDescriptionUk3 = "English Football League One";
+        //public const string InternalLeagueCodeDescriptionUk4 = "English Football League Two";
 
         public static string TheBossIsCommingText =
             @"CS0016: Could not write to output file 'c:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\Temporary ASP.NET Files\\root\\9c4c27ed\\e56c00f7\\App_Web_default.aspx.cdcab7d2.rxmrydy_.dll' . The directory name is invalid." +

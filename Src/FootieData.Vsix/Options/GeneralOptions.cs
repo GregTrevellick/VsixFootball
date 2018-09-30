@@ -17,15 +17,15 @@ namespace FootieData.Vsix.Options
         [Description(CommonConstants.InterestedInLeague)]
         public bool InterestedInUk2 { get; set; } = false;
 
-        [Category(CommonConstants.CategorySubLevelFootball)]
-        [DisplayName(CommonConstants.InternalLeagueCodeDescriptionUk3)]
-        [Description(CommonConstants.InterestedInLeague)]
-        public bool InterestedInUk3 { get; set; } = false;
+        //[Category(CommonConstants.CategorySubLevelFootball)]
+        //[DisplayName(CommonConstants.InternalLeagueCodeDescriptionUk3)]
+        //[Description(CommonConstants.InterestedInLeague)]
+        //public bool InterestedInUk3 { get; set; } = false;
 
-        [Category(CommonConstants.CategorySubLevelFootball)]
-        [DisplayName(CommonConstants.InternalLeagueCodeDescriptionUk4)]
-        [Description(CommonConstants.InterestedInLeague)]
-        public bool InterestedInUk4 { get; set; } = false;
+        //[Category(CommonConstants.CategorySubLevelFootball)]
+        //[DisplayName(CommonConstants.InternalLeagueCodeDescriptionUk4)]
+        //[Description(CommonConstants.InterestedInLeague)]
+        //public bool InterestedInUk4 { get; set; } = false;
 
         [Category(CommonConstants.CategorySubLevelFootball)]
         [DisplayName(CommonConstants.InternalLeagueCodeDescriptionBr1)]
@@ -37,10 +37,10 @@ namespace FootieData.Vsix.Options
         [Description(CommonConstants.InterestedInLeague)]
         public bool InterestedInDe1 { get; set; } = false;
 
-        [Category(CommonConstants.CategorySubLevelFootball)]
-        [DisplayName(CommonConstants.InternalLeagueCodeDescriptionDe2)]
-        [Description(CommonConstants.InterestedInLeague)]
-        public bool InterestedInDe2 { get; set; } = false;
+        //[Category(CommonConstants.CategorySubLevelFootball)]
+        //[DisplayName(CommonConstants.InternalLeagueCodeDescriptionDe2)]
+        //[Description(CommonConstants.InterestedInLeague)]
+        //public bool InterestedInDe2 { get; set; } = false;
 
         [Category(CommonConstants.CategorySubLevelFootball)]
         [DisplayName(CommonConstants.InternalLeagueCodeDescriptionEs1)]
@@ -52,20 +52,20 @@ namespace FootieData.Vsix.Options
         [Description(CommonConstants.InterestedInLeague)]
         public bool InterestedInFr1 { get; set; } = false;
 
-        [Category(CommonConstants.CategorySubLevelFootball)]
-        [DisplayName(CommonConstants.InternalLeagueCodeDescriptionFr2)]
-        [Description(CommonConstants.InterestedInLeague)]
-        public bool InterestedInFr2 { get; set; } = false;
+        //[Category(CommonConstants.CategorySubLevelFootball)]
+        //[DisplayName(CommonConstants.InternalLeagueCodeDescriptionFr2)]
+        //[Description(CommonConstants.InterestedInLeague)]
+        //public bool InterestedInFr2 { get; set; } = false;
 
         [Category(CommonConstants.CategorySubLevelFootball)]
         [DisplayName(CommonConstants.InternalLeagueCodeDescriptionIt1)]
         [Description(CommonConstants.InterestedInLeague)]
         public bool InterestedInIt1 { get; set; } = false;
 
-        [Category(CommonConstants.CategorySubLevelFootball)]
-        [DisplayName(CommonConstants.InternalLeagueCodeDescriptionIt2)]
-        [Description(CommonConstants.InterestedInLeague)]
-        public bool InterestedInIt2 { get; set; } = false;
+        //[Category(CommonConstants.CategorySubLevelFootball)]
+        //[DisplayName(CommonConstants.InternalLeagueCodeDescriptionIt2)]
+        //[Description(CommonConstants.InterestedInLeague)]
+        //public bool InterestedInIt2 { get; set; } = false;
 
         [Category(CommonConstants.CategorySubLevelFootball)]
         [DisplayName(CommonConstants.InternalLeagueCodeDescriptionNl1)]

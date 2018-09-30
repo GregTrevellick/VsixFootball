@@ -215,6 +215,9 @@ namespace FootballDataOrg
 
         private static Standing GetStanding(v2s.Table[] total, v2s.Table[] home, v2s.Table[] away, int i)
         {
+            var homei = home.SingleOrDefault(x => x.team.id == total[i].team.id);
+            var awayi = away.SingleOrDefault(x => x.team.id == total[i].team.id);
+
             return new Standing
             {
                 Position = total[i].position,
@@ -229,19 +232,19 @@ namespace FootballDataOrg
                 Losses = total[i].lost,
                 Home = new ResponseEntities.HomeAway.Home
                 {
-                    Draws = home[i].draw,
-                    Goals = home[i].goalsFor,
-                    GoalsAgainst = home[i].goalsAgainst,
-                    Losses = home[i].lost,
-                    Wins = home[i].won
+                    Draws = homei.draw,
+                    Goals = homei.goalsFor,
+                    GoalsAgainst = homei.goalsAgainst,
+                    Losses = homei.lost,
+                    Wins = homei.won
                 },
                 Away = new ResponseEntities.HomeAway.Away
                 {
-                    Draws = away[i].draw,
-                    Goals = away[i].goalsFor,
-                    GoalsAgainst = away[i].goalsAgainst,
-                    Losses = away[i].lost,
-                    Wins = away[i].won
+                    Draws = awayi.draw,
+                    Goals = awayi.goalsFor,
+                    GoalsAgainst = awayi.goalsAgainst,
+                    Losses = awayi.lost,
+                    Wins = awayi.won
                 }
             };
         }
