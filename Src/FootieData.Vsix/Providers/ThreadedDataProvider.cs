@@ -70,6 +70,13 @@ namespace FootieData.Vsix.Providers
                     {
                         case GridType.Standing:
                             var iEnumerableStandings = GetStandings(externalLeagueCode);
+                            if (iEnumerableStandings == null)
+                            {
+                                iEnumerableStandings = new List<Standing>()
+                                {
+                                    new Standing { Team = "abc gregt" }
+                                };
+                            }
                             leagueParent.Standings.Clear();
                             var standingsList = iEnumerableStandings.ToList();
                             if (standingsList.Any(x => x.Team != null && x.Team.StartsWith(RequestLimitReached)))
@@ -94,6 +101,13 @@ namespace FootieData.Vsix.Providers
                             break;
                         case GridType.Result:
                             var iEnumerableFixturePasts = GetFixturePasts(externalLeagueCode);
+                            if (iEnumerableFixturePasts == null)
+                            {
+                                iEnumerableFixturePasts = new List<FixturePast>()
+                                {
+                                    new FixturePast { HomeName = "def gregt" }
+                                };
+                            }
                             leagueParent.FixturePasts.Clear();
                             var resultsList = iEnumerableFixturePasts.ToList();
                             if (resultsList.Any())
@@ -125,6 +139,13 @@ namespace FootieData.Vsix.Providers
                             break;
                         case GridType.Fixture:
                             var iEnumerableFixtureFutures = GetFixtureFutures(externalLeagueCode);
+                            if (iEnumerableFixtureFutures == null)
+                            {
+                                iEnumerableFixtureFutures = new List<FixtureFuture>()
+                                {
+                                    new FixtureFuture { HomeName = "ghi gregt" }
+                                };
+                            }
                             leagueParent.FixtureFutures.Clear();
                             var fixturesList = iEnumerableFixtureFutures.ToList();
                             if (fixturesList.Any())
