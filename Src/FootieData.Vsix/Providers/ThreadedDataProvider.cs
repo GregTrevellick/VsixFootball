@@ -18,6 +18,7 @@ namespace FootieData.Vsix.Providers
         private readonly string _zeroFixturePasts = $"No results available for the past {CommonConstants.DaysCount} days";//TODO move to EntityConstants
         private readonly string _zeroFixtureFutures = $"No fixtures available for the next {CommonConstants.DaysCount} days";//TODO move to EntityConstants
         private const string RequestLimitReached = "You reached your request limit. W";
+        private const string UnavailableRefresh = "3rd party data unavailable, try a refresh";
 
         public ThreadedDataProvider(ExternalLeagueCode externalLeagueCode)
         {
@@ -74,7 +75,7 @@ namespace FootieData.Vsix.Providers
                             {
                                 iEnumerableStandings = new List<Standing>()
                                 {
-                                    new Standing { Team = "abc gregt" }
+                                    new Standing { Team = UnavailableRefresh }
                                 };
                             }
                             leagueParent.Standings.Clear();
@@ -105,7 +106,7 @@ namespace FootieData.Vsix.Providers
                             {
                                 iEnumerableFixturePasts = new List<FixturePast>()
                                 {
-                                    new FixturePast { HomeName = "def gregt" }
+                                    new FixturePast { HomeName = UnavailableRefresh }
                                 };
                             }
                             leagueParent.FixturePasts.Clear();
@@ -143,7 +144,7 @@ namespace FootieData.Vsix.Providers
                             {
                                 iEnumerableFixtureFutures = new List<FixtureFuture>()
                                 {
-                                    new FixtureFuture { HomeName = "ghi gregt" }
+                                    new FixtureFuture { HomeName = UnavailableRefresh }
                                 };
                             }
                             leagueParent.FixtureFutures.Clear();
