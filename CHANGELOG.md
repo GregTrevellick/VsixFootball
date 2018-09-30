@@ -6,8 +6,8 @@ These are the incremental changes to each version that has been released on the 
 
 Individual releases are tagged as such in GitHub.
 
-## 2.0.2
-**2018-09-22**
+## 2.0.3
+**2018-09-30**
 - [x] Initial release
 
 

@@ -11,7 +11,7 @@ namespace FootieData.Vsix
         public const string Name = "Football";
         public const string Description = @"Tables. Results. Fixtures. In the IDE.";
         public const string Language = "en-US";
-        public const string Version = "2.0.2";
+        public const string Version = "2.0.3";
         public const string Author = "Greg Trevellick";
         public const string Tags = "Bundesliga, Championship, English, Football, Footie, Footy, League, Liga, Premier, Soccer, Sport, United, Liga, Ligue, Roma, Milan, Madrid";
     }
