@@ -7,7 +7,7 @@
 <!--BadgesSTART-->
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
- 
+
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
@@ -28,6 +28,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
