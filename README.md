@@ -14,7 +14,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootball/depshield.svg)](https://depshield.github.io)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
@@ -35,7 +36,7 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
