@@ -9,7 +9,7 @@
         <ReleaseNotes>https://github.com/GregTrevellick/VsixFootball/blob/master/CHANGELOG.md</ReleaseNotes>
         <Icon>Resources\VsixExtensionPreview_90x90.png</Icon>
         <PreviewImage>Resources\VsixExtensionPreview_175x175.png</PreviewImage>
-        <Tags>Bundesliga, Championship, English, Football, Footie, Footy, League, Liga, Premier, Soccer, Sport, United, Liga, Ligue, Roma, Milan, Madrid</Tags>
+        <Tags>Bundesliga; Championship; English; Football; Footie; Footy; League; Liga; Premier; Soccer; Sport; United; Liga; Ligue; Roma; Milan; Madrid; Eredivisie; La Liga; Primera; Division; Premier League; EFL; Championship; Primeira Liga; Serie A; Manchester; Arsenal; Paris; Ajax; Futbol; FIFA; UEFA;</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0,16.0)" />
