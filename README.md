@@ -9,38 +9,35 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
-
+<!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
-[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
-
-
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixFootball)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=vulnerabilities)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=alert_status)](https://sonarcloud.io/dashboard?id=GregTrevellick_VsixFootball)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=bugs)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=code_smells)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=coverage)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=ncloc)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=security_rating)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=sqale_index)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_VsixFootball&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=GregTrevellick_VsixFootball&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
-[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-
-[Subscribe](https://github.com/GregTrevellick/VsixFootball/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/GregTrevellick/VsixFootball/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-Football-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
