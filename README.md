@@ -13,6 +13,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/issues)
